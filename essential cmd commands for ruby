@@ -1,0 +1,11 @@
+// Essential cmd Commands for ruby
+
+Version Check     	 	 = ruby -v
+Root directory    	 	 = cd\
+Land into D drive from any place = d:
+Enter into Folder 	 	 = cd Nabil\SASS
+Folder name within space 	 = cd "Folder Name"
+Linking           	 	 = sass --watch sass:css
+Install Program   	 	 = gem install bitters -v 1.8.0
+Uninstall Program 	 	 = gem uninstall bitters -v 1.8.0
+
